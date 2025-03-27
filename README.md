@@ -1,2 +1,2 @@
 # JavaSEcode
-Java基础代码
+学习Java写的基础代码
